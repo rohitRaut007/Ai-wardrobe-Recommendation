@@ -16,22 +16,15 @@ An intelligent fashion outfit recommender built with React. It helps users disco
 
 🧑‍💻 Getting Started
 1. Clone the repository
-bash
-Copy
-Edit
 git clone https://github.com/rohitRaut007/Ai-wardrobe-Recommendation.git
 cd Ai-wardrobe-Recommendation
-2. Install dependencies
-bash
-Copy
-Edit
+
+3. Install dependencies
 npm install
 # or
 yarn install
+
 3. Start the development server
-bash
-Copy
-Edit
 npm run dev
 # or
 yarn dev
