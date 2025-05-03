@@ -29,12 +29,12 @@ export const outfitData: Outfit[] = [
       {
         id: 102,
         name: "Denim jacket",
-        category: "bottom",
+        category: "Jacket",
         image: demin_jac, // Assuming this represents denim/chino shorts — update if not accurate
-        description: "Comfortable cotton chino shorts",
+        description: "Denim jacket comportable and fully stylish",
         price: 5999.99,
         brand: "Urban Comfort",
-        color: "Beige"
+        color: "Olive Green"
       },
       {
         id: 103,
