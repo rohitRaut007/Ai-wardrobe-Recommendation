@@ -28,7 +28,7 @@ const OutfitCard: React.FC<OutfitCardProps> = ({
         <p className="text-neutral-600 mb-4">{outfit.description}</p>
       </div>
 
-      <div className="relative aspect-[4/3] md:aspect-[16/9] mb-6">
+      <div className="relative aspect-[4/3] md:aspect-[25/9] mb-6">
         <img 
           src={outfit.image} 
           alt={outfit.name} 

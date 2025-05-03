@@ -28,7 +28,7 @@ const ClothingItem: React.FC<ClothingItemProps> = ({ item, isLiked, onToggleLike
           <h4 className="font-medium text-neutral-900 mb-1">{item.name}</h4>
           <p className="text-sm text-neutral-500 capitalize">{item.category}</p>
           <p className="text-sm font-medium text-neutral-900 mt-2">
-            ₹{item.price.toFixed(2)}
+            {/* ₹{item.price.toFixed(2)} */}
           </p>
         </div>
       </div>
